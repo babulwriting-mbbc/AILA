@@ -86,4 +86,4 @@ AILA is designed to evolve in phases:
 ## Author
 
 Abdulla Al Babul  
-Human Resources Professional | AI & Workforce Development Researcher | PhD Aspirant
+AI & Workforce Development Researcher
