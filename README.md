@@ -1,4 +1,4 @@
-# AI Learning and Application (AILA)
+# AILA - AI Learning and Application
 
 AI Learning and Application (AILA) is a **research-driven, educational, and industry-ready project** that explores the use of Artificial Intelligence in workforce learning, HR analytics, compensation, skill development, and professional coaching.
 
